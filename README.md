@@ -16,9 +16,10 @@ This will run the app on its own, outside of the container. This is useful while
 you're tweaking logic and styling, but you'll usually then need to integrate and
 test it with the rest of the application. So you should also run:
 
-- the [`container`](https://github.com/) application
-- the [`search`](https://github.com/) micro frontend
+- the [`container`](https://github.com/rocco-scaramuzzi/micro-frontend-container) application
+- the [`search`](https://github.com/rocco-scaramuzzi/micro-frontend-search) micro frontend
 
-# Run the tests
+# References
 
-- `yarn test`
+- https://martinfowler.com/articles/micro-frontends.html 
+
